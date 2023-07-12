@@ -1,0 +1,9 @@
+C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\bin\Debug\Aula03ProgramarComponentes.exe.config
+C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\bin\Debug\Aula03ProgramarComponentes.exe
+C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\bin\Debug\Aula03ProgramarComponentes.pdb
+C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.Properties.Resources.resources
+C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.csproj.GenerateResource.cache
+C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.csproj.CoreCompileInputs.cache
+C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.exe
+C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.pdb
+C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.Form1.resources
