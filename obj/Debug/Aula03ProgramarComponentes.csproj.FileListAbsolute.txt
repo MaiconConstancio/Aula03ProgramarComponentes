@@ -7,3 +7,4 @@ C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03Progra
 C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.exe
 C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.pdb
 C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.Form1.resources
+C:\Users\maicon.sconstancio\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.csproj.AssemblyReference.cache

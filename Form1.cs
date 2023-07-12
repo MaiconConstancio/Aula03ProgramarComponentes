@@ -27,12 +27,12 @@ namespace Aula03ProgramarComponentes
         private void button1_Click(object sender, EventArgs e)
         {
             string nome;
-            nome = CAIXA01.Text;
+            nome = CaixaDeDialogo.Text;
 
             MessageBox.Show($"Bem-Vindo {nome} :D");
 
 
-            nome = label2.Text = ($"Seu nome é: {nome} :D");
+            nome = SeuNomeÉ.Text = ($"Seu nome é: {nome} :D");
         }
         private void textBox1_TextChanged(object sender, EventArgs e)
 
@@ -43,7 +43,7 @@ namespace Aula03ProgramarComponentes
 
         private void button2_Click(object sender, EventArgs e)
         {
-            CAIXA01.Clear();
+            CaixaDeDialogo.Clear();
         }
 
         private void label1_Click(object sender, EventArgs e)

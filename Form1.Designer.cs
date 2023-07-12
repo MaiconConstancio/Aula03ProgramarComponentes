@@ -29,21 +29,21 @@ namespace Aula03ProgramarComponentes
         /// </summary>
         private void InitializeComponent()
         {
-            this.CAIXA01 = new System.Windows.Forms.TextBox();
+            this.CaixaDeDialogo = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
+            this.SeuNomeÉ = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // CAIXA01
+            // CaixaDeDialogo
             // 
-            this.CAIXA01.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.CAIXA01.Location = new System.Drawing.Point(113, 204);
-            this.CAIXA01.Name = "CAIXA01";
-            this.CAIXA01.Size = new System.Drawing.Size(260, 20);
-            this.CAIXA01.TabIndex = 0;
-            this.CAIXA01.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.CaixaDeDialogo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.CaixaDeDialogo.Location = new System.Drawing.Point(113, 204);
+            this.CaixaDeDialogo.Name = "CaixaDeDialogo";
+            this.CaixaDeDialogo.Size = new System.Drawing.Size(260, 20);
+            this.CaixaDeDialogo.TabIndex = 0;
+            this.CaixaDeDialogo.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label1
             // 
@@ -85,17 +85,17 @@ namespace Aula03ProgramarComponentes
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // label2
+            // SeuNomeÉ
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.Navy;
-            this.label2.Location = new System.Drawing.Point(110, 144);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(92, 18);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "Seu nome é:";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            this.SeuNomeÉ.AutoSize = true;
+            this.SeuNomeÉ.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.SeuNomeÉ.ForeColor = System.Drawing.Color.Navy;
+            this.SeuNomeÉ.Location = new System.Drawing.Point(110, 144);
+            this.SeuNomeÉ.Name = "SeuNomeÉ";
+            this.SeuNomeÉ.Size = new System.Drawing.Size(92, 18);
+            this.SeuNomeÉ.TabIndex = 4;
+            this.SeuNomeÉ.Text = "Seu nome é:";
+            this.SeuNomeÉ.Click += new System.EventHandler(this.label2_Click);
             // 
             // Form1
             // 
@@ -103,11 +103,11 @@ namespace Aula03ProgramarComponentes
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.CornflowerBlue;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(this.SeuNomeÉ);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.CAIXA01);
+            this.Controls.Add(this.CaixaDeDialogo);
             this.Name = "Form1";
             this.Text = "Cadastro";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -118,11 +118,11 @@ namespace Aula03ProgramarComponentes
 
         #endregion
 
-        private System.Windows.Forms.TextBox CAIXA01;
+        private System.Windows.Forms.TextBox CaixaDeDialogo;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label SeuNomeÉ;
     }
 }
 
